@@ -1,0 +1,2 @@
+# LexiconEx
+Lexicon Exercises
